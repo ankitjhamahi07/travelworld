@@ -1,0 +1,9 @@
+.radiolabel {
+    display: inline-block;
+  }
+  
+  @media screen and (max-width: 768px) {
+    l.radiolabel {
+      display: block;
+    }
+  }
